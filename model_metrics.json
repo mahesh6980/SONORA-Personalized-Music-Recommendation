@@ -1,0 +1,22 @@
+{
+  "Random Forest": {
+    "accuracy": 0.455446,
+    "weighted_f1": 0.440946,
+    "macro_f1": 0.379037
+  },
+  "Logistic Regression": {
+    "accuracy": 0.29703,
+    "weighted_f1": 0.305918,
+    "macro_f1": 0.275453
+  },
+  "Decision Tree": {
+    "accuracy": 0.326733,
+    "weighted_f1": 0.305207,
+    "macro_f1": 0.351801
+  },
+  "KNN": {
+    "accuracy": 0.267327,
+    "weighted_f1": 0.248136,
+    "macro_f1": 0.166905
+  }
+}

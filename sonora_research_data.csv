@@ -1,0 +1,502 @@
+Timestamp,Age_Group,Study_Year,Stress_Level,Current_Mood,Current_Activity,Academic_Workload,Music_Duration,Preferred_Genre,Stress_Genre,Music_Goal
+2026-08-25 09:19:00.000,18–20,Postgraduate,2 - Low,Happy,Preparing for sleep,Moderate,Less than 30 minutes,Other,Bollywood / Indian Film Music,Relaxation
+2026-08-25 10:03:00.000,18–20,Second Year,4 - High,Neutral,Exercising,Very High,Less than 30 minutes,Ambient,Bollywood / Indian Film Music,Focus / Concentration
+2026-08-25 11:04:00.000,18–20,Second Year,3 - Moderate,Tired,Relaxing,Moderate,1–2 hours,Bollywood / Indian Film Music,Rock,Emotional Comfort
+2026-08-25 11:17:00.000,18–20,Postgraduate,4 - High,Tired,Preparing for sleep,Moderate,2–4 hours,Pop,Bollywood / Indian Film Music,Stress Relief
+2026-08-25 11:18:00.000,21–23,Second Year,3 - Moderate,Calm,Other,Moderate,More than 4 hours,Instrumental,Pop,Emotional Comfort
+2026-08-25 11:18:00.000,Under 18,Second Year,3 - Moderate,Tired,Relaxing,High,2–4 hours,Instrumental,Bollywood / Indian Film Music,Focus / Concentration
+2026-08-25 12:00:00.000,18–20,Second Year,3 - Moderate,Neutral,Studying,Moderate,30–60 minutes,Ambient,Lo-fi,Better Mood
+2026-08-25 12:38:00.000,18–20,Second Year,4 - High,Happy,Exercising,High,30–60 minutes,Instrumental,Instrumental,Better Mood
+2026-08-25 13:45:00.000,18–20,Third Year,2 - Low,Happy,Travelling,Low,Less than 30 minutes,Pop,Rock,Stress Relief
+2026-08-25 14:27:00.000,18–20,Third Year,2 - Low,Neutral,Studying,Moderate,1–2 hours,Hip-Hop / Rap,Hip-Hop / Rap,Stress Relief
+2026-08-25 14:54:00.000,21–23,First Year,5 - Very High,Happy,Studying,Very High,30–60 minutes,Bollywood / Indian Film Music,Ambient,Stress Relief
+2026-08-25 16:55:00.000,18–20,Second Year,2 - Low,Neutral,Working,Low,1–2 hours,Lo-fi,Lo-fi,Emotional Comfort
+2026-08-25 17:26:00.000,18–20,Second Year,1 - Very Low,Calm,Studying,Very Low,2–4 hours,Pop,Pop,Emotional Comfort
+2026-08-25 17:33:00.000,18–20,Third Year,2 - Low,Calm,Studying,Moderate,30–60 minutes,Bollywood / Indian Film Music,Lo-fi,Stress Relief
+2026-08-25 18:38:00.000,18–20,Second Year,4 - High,Happy,Studying,Very High,2–4 hours,Lo-fi,Lo-fi,Focus / Concentration
+2026-08-25 20:00:00.000,18–20,Third Year,3 - Moderate,Calm,Other,High,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Stress Relief
+2026-08-25 20:44:00.000,18–20,Postgraduate,3 - Moderate,Happy,Exercising,Moderate,30–60 minutes,Classical,Classical,Stress Relief
+2026-08-25 21:07:00.000,Under 18,Third Year,4 - High,Tired,Studying,High,1–2 hours,Instrumental,Lo-fi,Relaxation
+2026-08-26 09:58:00.000,18–20,Third Year,1 - Very Low,Tired,Studying,Very Low,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Stress Relief
+2026-08-26 10:05:00.000,18–20,Second Year,4 - High,Happy,Studying,Moderate,Less than 30 minutes,Instrumental,Instrumental,Relaxation
+2026-08-26 10:46:00.000,18–20,Third Year,3 - Moderate,Neutral,Studying,Moderate,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Focus / Concentration
+2026-08-26 12:00:00.000,18–20,Second Year,1 - Very Low,Happy,Relaxing,Very Low,2–4 hours,Rock,Rock,Relaxation
+2026-08-26 12:07:00.000,21–23,First Year,5 - Very High,Calm,Studying,Very High,1–2 hours,Pop,Pop,Focus / Concentration
+2026-08-26 13:21:00.000,18–20,Third Year,3 - Moderate,Energetic,Preparing for sleep,Moderate,1–2 hours,Ambient,Ambient,Relaxation
+2026-08-26 13:33:00.000,24+,Second Year,4 - High,Anxious,Studying,Moderate,1–2 hours,Classical,Instrumental,Stress Relief
+2026-08-26 14:21:00.000,18–20,Postgraduate,2 - Low,Calm,Relaxing,Moderate,1–2 hours,Instrumental,Instrumental,Better Mood
+2026-08-26 16:22:00.000,Under 18,Third Year,3 - Moderate,Neutral,Preparing for sleep,High,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Stress Relief
+2026-08-26 16:24:00.000,21–23,Third Year,3 - Moderate,Tired,Relaxing,Moderate,1–2 hours,Lo-fi,Bollywood / Indian Film Music,Energy / Motivation
+2026-08-26 18:34:00.000,21–23,Second Year,3 - Moderate,Neutral,Studying,Moderate,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Focus / Concentration
+2026-08-26 18:48:00.000,18–20,Second Year,4 - High,Neutral,Relaxing,High,30–60 minutes,Instrumental,Devotional / Spiritual,Relaxation
+2026-08-27 11:07:00.000,18–20,Second Year,4 - High,Tired,Exercising,Moderate,2–4 hours,Lo-fi,Bollywood / Indian Film Music,Focus / Concentration
+2026-08-27 14:00:00.000,18–20,Third Year,3 - Moderate,Happy,Exercising,Moderate,Less than 30 minutes,Pop,Pop,Better Mood
+2026-08-27 14:55:00.000,18–20,First Year,4 - High,Tired,Studying,High,More than 4 hours,Devotional / Spiritual,Ambient,Relaxation
+2026-08-27 15:06:00.000,21–23,First Year,4 - High,Happy,Studying,High,2–4 hours,Classical,Lo-fi,Better Mood
+2026-08-27 15:17:00.000,18–20,Second Year,4 - High,Neutral,Preparing for sleep,Very High,30–60 minutes,Devotional / Spiritual,Devotional / Spiritual,Sleep
+2026-08-27 15:17:00.000,18–20,Second Year,4 - High,Neutral,Relaxing,Moderate,2–4 hours,Ambient,Pop,Focus / Concentration
+2026-08-27 16:50:00.000,18–20,Postgraduate,2 - Low,Calm,Other,High,2–4 hours,Bollywood / Indian Film Music,Lo-fi,Focus / Concentration
+2026-08-27 17:36:00.000,18–20,Postgraduate,4 - High,Tired,Studying,High,Less than 30 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Stress Relief
+2026-08-27 18:14:00.000,18–20,Second Year,1 - Very Low,Neutral,Exercising,Low,1–2 hours,Devotional / Spiritual,Rock,Better Mood
+2026-08-27 18:24:00.000,Under 18,First Year,5 - Very High,Sad,Working,Very High,30–60 minutes,Pop,Pop,Emotional Comfort
+2026-08-27 18:48:00.000,18–20,Third Year,3 - Moderate,Neutral,Other,Moderate,1–2 hours,Pop,Electronic,Relaxation
+2026-08-27 19:24:00.000,18–20,Second Year,2 - Low,Happy,Studying,Moderate,2–4 hours,Pop,Hip-Hop / Rap,Focus / Concentration
+2026-08-27 19:44:00.000,18–20,Second Year,3 - Moderate,Happy,Studying,High,2–4 hours,Lo-fi,Classical,Stress Relief
+2026-08-27 21:18:00.000,18–20,Second Year,3 - Moderate,Neutral,Studying,Moderate,Less than 30 minutes,Lo-fi,Other,Relaxation
+2026-08-28 09:51:00.000,18–20,Second Year,4 - High,Neutral,Relaxing,High,More than 4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Sleep
+2026-08-28 10:42:00.000,21–23,First Year,3 - Moderate,Anxious,Relaxing,Moderate,1–2 hours,Lo-fi,Lo-fi,Better Mood
+2026-08-28 11:39:00.000,21–23,Third Year,2 - Low,Tired,Relaxing,Moderate,1–2 hours,Rock,Bollywood / Indian Film Music,Energy / Motivation
+2026-08-28 13:46:00.000,18–20,Postgraduate,2 - Low,Tired,Relaxing,Moderate,Less than 30 minutes,Pop,Pop,Focus / Concentration
+2026-08-28 13:53:00.000,18–20,First Year,2 - Low,Neutral,Studying,Moderate,2–4 hours,Hip-Hop / Rap,Pop,Relaxation
+2026-08-28 14:24:00.000,18–20,Third Year,4 - High,Tired,Travelling,Moderate,More than 4 hours,Lo-fi,Pop,Relaxation
+2026-08-28 14:41:00.000,18–20,Second Year,4 - High,Tired,Relaxing,High,1–2 hours,Rock,Lo-fi,Relaxation
+2026-08-28 14:58:00.000,Under 18,Second Year,2 - Low,Calm,Relaxing,Very Low,Less than 30 minutes,Ambient,Instrumental,Energy / Motivation
+2026-08-28 15:53:00.000,21–23,First Year,4 - High,Tired,Studying,High,More than 4 hours,Other,Ambient,Stress Relief
+2026-08-28 16:27:00.000,21–23,Postgraduate,2 - Low,Calm,Studying,High,Less than 30 minutes,Classical,Instrumental,Focus / Concentration
+2026-08-28 17:02:00.000,18–20,Third Year,2 - Low,Calm,Preparing for sleep,Moderate,More than 4 hours,Bollywood / Indian Film Music,Lo-fi,Relaxation
+2026-08-28 17:17:00.000,24+,First Year,5 - Very High,Tired,Preparing for sleep,Very High,2–4 hours,Ambient,Instrumental,Energy / Motivation
+2026-08-28 18:47:00.000,21–23,Third Year,2 - Low,Neutral,Travelling,Low,More than 4 hours,Lo-fi,Bollywood / Indian Film Music,Focus / Concentration
+2026-08-28 19:12:00.000,18–20,First Year,2 - Low,Neutral,Working,Moderate,Less than 30 minutes,Electronic,Bollywood / Indian Film Music,Better Mood
+2026-08-28 20:40:00.000,18–20,Third Year,5 - Very High,Irritated,Studying,Very High,Less than 30 minutes,Ambient,Bollywood / Indian Film Music,Better Mood
+2026-08-29 10:23:00.000,21–23,Postgraduate,4 - High,Anxious,Other,Moderate,30–60 minutes,Instrumental,Instrumental,Sleep
+2026-08-29 11:04:00.000,Under 18,Second Year,3 - Moderate,Tired,Studying,Moderate,More than 4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Sleep
+2026-08-29 11:50:00.000,18–20,Second Year,3 - Moderate,Neutral,Studying,Moderate,1–2 hours,Pop,Electronic,Relaxation
+2026-08-29 11:57:00.000,18–20,Postgraduate,4 - High,Calm,Studying,High,Less than 30 minutes,Ambient,Ambient,No Specific Goal
+2026-08-29 12:07:00.000,21–23,Postgraduate,5 - Very High,Sad,Studying,Very High,30–60 minutes,Lo-fi,Bollywood / Indian Film Music,Stress Relief
+2026-08-29 12:51:00.000,18–20,Postgraduate,3 - Moderate,Anxious,Relaxing,Moderate,1–2 hours,Bollywood / Indian Film Music,Lo-fi,Emotional Comfort
+2026-08-29 12:59:00.000,18–20,Third Year,5 - Very High,Sad,Travelling,Very High,2–4 hours,Lo-fi,Ambient,Better Mood
+2026-08-29 13:27:00.000,24+,Third Year,1 - Very Low,Energetic,Studying,Very Low,1–2 hours,Other,Other,Energy / Motivation
+2026-08-29 14:36:00.000,18–20,Third Year,3 - Moderate,Happy,Working,Moderate,1–2 hours,Pop,Pop,Relaxation
+2026-08-29 15:05:00.000,18–20,First Year,1 - Very Low,Neutral,Relaxing,Low,2–4 hours,Devotional / Spiritual,Rock,Stress Relief
+2026-08-29 15:41:00.000,18–20,Postgraduate,2 - Low,Neutral,Preparing for sleep,Moderate,1–2 hours,Classical,Classical,No Specific Goal
+2026-08-29 15:56:00.000,18–20,First Year,3 - Moderate,Sad,Working,Moderate,1–2 hours,Pop,Pop,Better Mood
+2026-08-29 16:26:00.000,21–23,Second Year,1 - Very Low,Neutral,Studying,Very Low,30–60 minutes,Instrumental,Classical,Relaxation
+2026-08-29 17:03:00.000,18–20,Third Year,2 - Low,Calm,Working,Low,2–4 hours,Instrumental,Pop,Sleep
+2026-08-29 18:20:00.000,18–20,Second Year,3 - Moderate,Neutral,Relaxing,Moderate,1–2 hours,Instrumental,Rock,Relaxation
+2026-08-29 20:11:00.000,21–23,Third Year,3 - Moderate,Happy,Studying,Low,1–2 hours,Pop,Bollywood / Indian Film Music,Relaxation
+2026-08-29 20:29:00.000,21–23,First Year,3 - Moderate,Happy,Studying,Moderate,30–60 minutes,Pop,Hip-Hop / Rap,Stress Relief
+2026-08-29 20:38:00.000,24+,First Year,5 - Very High,Neutral,Other,High,1–2 hours,Ambient,Devotional / Spiritual,Emotional Comfort
+2026-08-30 09:36:00.000,18–20,Second Year,5 - Very High,Happy,Relaxing,Very High,1–2 hours,Classical,Instrumental,Stress Relief
+2026-08-30 10:12:00.000,21–23,Third Year,2 - Low,Calm,Studying,Moderate,2–4 hours,Other,Other,Energy / Motivation
+2026-08-30 11:35:00.000,18–20,Third Year,4 - High,Neutral,Studying,Moderate,1–2 hours,Classical,Electronic,Stress Relief
+2026-08-30 12:09:00.000,18–20,First Year,3 - Moderate,Happy,Travelling,Moderate,Less than 30 minutes,Pop,Pop,Stress Relief
+2026-08-30 12:22:00.000,18–20,Third Year,5 - Very High,Sad,Studying,High,1–2 hours,Instrumental,Instrumental,Relaxation
+2026-08-30 12:52:00.000,18–20,Third Year,2 - Low,Happy,Studying,High,2–4 hours,Classical,Bollywood / Indian Film Music,Better Mood
+2026-08-30 14:33:00.000,18–20,First Year,1 - Very Low,Neutral,Studying,Low,1–2 hours,Lo-fi,Lo-fi,Sleep
+2026-08-30 17:22:00.000,18–20,Second Year,3 - Moderate,Happy,Studying,Moderate,1–2 hours,Classical,Instrumental,Focus / Concentration
+2026-08-30 19:40:00.000,18–20,Postgraduate,5 - Very High,Neutral,Studying,High,Less than 30 minutes,Instrumental,Instrumental,Focus / Concentration
+2026-08-31 11:40:00.000,18–20,First Year,4 - High,Tired,Studying,High,Less than 30 minutes,Devotional / Spiritual,Lo-fi,Better Mood
+2026-08-31 11:58:00.000,18–20,First Year,2 - Low,Neutral,Studying,Moderate,1–2 hours,Classical,Instrumental,Energy / Motivation
+2026-08-31 12:20:00.000,18–20,Second Year,4 - High,Neutral,Travelling,Moderate,2–4 hours,Pop,Lo-fi,Emotional Comfort
+2026-08-31 12:28:00.000,21–23,First Year,1 - Very Low,Calm,Studying,Moderate,30–60 minutes,Lo-fi,Pop,Relaxation
+2026-08-31 12:32:00.000,18–20,Third Year,4 - High,Tired,Studying,High,1–2 hours,Ambient,Ambient,Stress Relief
+2026-08-31 13:09:00.000,18–20,First Year,5 - Very High,Energetic,Preparing for sleep,High,Less than 30 minutes,Instrumental,Pop,Stress Relief
+2026-08-31 13:21:00.000,21–23,Third Year,1 - Very Low,Happy,Studying,Low,Less than 30 minutes,Classical,Classical,Focus / Concentration
+2026-08-31 15:11:00.000,21–23,Third Year,1 - Very Low,Happy,Studying,Low,Less than 30 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Sleep
+2026-08-31 15:40:00.000,18–20,First Year,3 - Moderate,Calm,Studying,Moderate,Less than 30 minutes,Bollywood / Indian Film Music,Pop,Better Mood
+2026-08-31 16:19:00.000,24+,Third Year,2 - Low,Neutral,Studying,Low,1–2 hours,Hip-Hop / Rap,Hip-Hop / Rap,Stress Relief
+2026-09-01 10:40:00.000,18–20,Third Year,4 - High,Happy,Exercising,Moderate,1–2 hours,Instrumental,Classical,Stress Relief
+2026-09-01 10:59:00.000,21–23,Second Year,3 - Moderate,Neutral,Working,High,1–2 hours,Devotional / Spiritual,Classical,Stress Relief
+2026-09-01 11:27:00.000,21–23,Second Year,3 - Moderate,Anxious,Working,High,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-01 12:02:00.000,Under 18,Second Year,5 - Very High,Anxious,Exercising,High,More than 4 hours,Ambient,Lo-fi,Stress Relief
+2026-09-01 12:10:00.000,18–20,Second Year,5 - Very High,Anxious,Relaxing,High,2–4 hours,Instrumental,Instrumental,Relaxation
+2026-09-01 13:16:00.000,18–20,Third Year,1 - Very Low,Calm,Studying,Low,Less than 30 minutes,Electronic,Pop,Energy / Motivation
+2026-09-01 13:30:00.000,18–20,Third Year,5 - Very High,Happy,Relaxing,High,2–4 hours,Lo-fi,Rock,Stress Relief
+2026-09-01 14:27:00.000,18–20,Third Year,3 - Moderate,Energetic,Studying,Moderate,30–60 minutes,Classical,Rock,Sleep
+2026-09-01 14:36:00.000,18–20,Postgraduate,2 - Low,Anxious,Studying,Low,30–60 minutes,Ambient,Ambient,Focus / Concentration
+2026-09-01 15:35:00.000,18–20,Postgraduate,4 - High,Happy,Studying,High,2–4 hours,Bollywood / Indian Film Music,Instrumental,Relaxation
+2026-09-01 18:54:00.000,18–20,First Year,2 - Low,Calm,Studying,Moderate,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Relaxation
+2026-09-01 19:11:00.000,Under 18,Postgraduate,3 - Moderate,Calm,Studying,Moderate,More than 4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Relaxation
+2026-09-01 19:38:00.000,24+,Postgraduate,2 - Low,Energetic,Travelling,Low,Less than 30 minutes,Rock,Rock,Stress Relief
+2026-09-02 09:06:00.000,21–23,Third Year,3 - Moderate,Tired,Relaxing,Moderate,30–60 minutes,Bollywood / Indian Film Music,Electronic,Energy / Motivation
+2026-09-02 11:21:00.000,24+,First Year,2 - Low,Happy,Relaxing,Moderate,More than 4 hours,Lo-fi,Classical,Better Mood
+2026-09-02 12:44:00.000,Under 18,Third Year,3 - Moderate,Happy,Travelling,Moderate,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-02 13:02:00.000,18–20,Second Year,2 - Low,Happy,Studying,Low,Less than 30 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-02 14:12:00.000,18–20,First Year,5 - Very High,Tired,Relaxing,High,1–2 hours,Lo-fi,Devotional / Spiritual,Stress Relief
+2026-09-02 14:55:00.000,Under 18,First Year,5 - Very High,Calm,Studying,Very High,2–4 hours,Instrumental,Instrumental,Sleep
+2026-09-02 16:15:00.000,18–20,Third Year,4 - High,Neutral,Studying,Very High,1–2 hours,Classical,Lo-fi,Stress Relief
+2026-09-02 16:33:00.000,18–20,Second Year,4 - High,Happy,Working,High,More than 4 hours,Pop,Instrumental,Stress Relief
+2026-09-02 17:18:00.000,21–23,First Year,5 - Very High,Anxious,Studying,Moderate,1–2 hours,Pop,Bollywood / Indian Film Music,Stress Relief
+2026-09-02 17:46:00.000,21–23,First Year,2 - Low,Neutral,Studying,Low,Less than 30 minutes,Devotional / Spiritual,Devotional / Spiritual,Stress Relief
+2026-09-02 18:05:00.000,21–23,Third Year,4 - High,Tired,Relaxing,Moderate,30–60 minutes,Instrumental,Instrumental,Stress Relief
+2026-09-02 18:20:00.000,18–20,Second Year,1 - Very Low,Energetic,Other,Very Low,30–60 minutes,Electronic,Devotional / Spiritual,No Specific Goal
+2026-09-02 19:10:00.000,21–23,Second Year,3 - Moderate,Neutral,Studying,High,30–60 minutes,Pop,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-02 19:54:00.000,18–20,Postgraduate,3 - Moderate,Neutral,Relaxing,Low,1–2 hours,Lo-fi,Lo-fi,Stress Relief
+2026-09-02 20:10:00.000,18–20,First Year,5 - Very High,Calm,Relaxing,Very High,Less than 30 minutes,Lo-fi,Lo-fi,Stress Relief
+2026-09-03 09:18:00.000,18–20,Second Year,1 - Very Low,Energetic,Studying,Very Low,30–60 minutes,Classical,Classical,Focus / Concentration
+2026-09-03 09:28:00.000,18–20,First Year,2 - Low,Energetic,Preparing for sleep,Very Low,30–60 minutes,Electronic,Electronic,Sleep
+2026-09-03 10:42:00.000,18–20,Postgraduate,4 - High,Neutral,Studying,Very High,1–2 hours,Lo-fi,Lo-fi,Focus / Concentration
+2026-09-03 11:24:00.000,18–20,Third Year,5 - Very High,Tired,Preparing for sleep,Moderate,30–60 minutes,Instrumental,Instrumental,Better Mood
+2026-09-03 11:27:00.000,18–20,Second Year,3 - Moderate,Neutral,Studying,Moderate,1–2 hours,Ambient,Ambient,Stress Relief
+2026-09-03 11:44:00.000,24+,Second Year,3 - Moderate,Anxious,Studying,Moderate,1–2 hours,Classical,Pop,Stress Relief
+2026-09-03 12:33:00.000,21–23,First Year,1 - Very Low,Happy,Studying,Very Low,30–60 minutes,Electronic,Pop,Sleep
+2026-09-03 12:44:00.000,21–23,First Year,5 - Very High,Tired,Studying,Very High,1–2 hours,Classical,Pop,Focus / Concentration
+2026-09-03 13:17:00.000,18–20,First Year,2 - Low,Calm,Relaxing,Low,2–4 hours,Bollywood / Indian Film Music,Classical,Relaxation
+2026-09-03 13:38:00.000,18–20,First Year,5 - Very High,Anxious,Exercising,Very High,More than 4 hours,Instrumental,Classical,Relaxation
+2026-09-03 13:52:00.000,18–20,First Year,4 - High,Calm,Studying,Very High,30–60 minutes,Pop,Classical,Stress Relief
+2026-09-03 14:14:00.000,21–23,Third Year,3 - Moderate,Happy,Studying,Low,2–4 hours,Bollywood / Indian Film Music,Classical,Focus / Concentration
+2026-09-03 14:44:00.000,18–20,Second Year,3 - Moderate,Neutral,Preparing for sleep,High,1–2 hours,Ambient,Ambient,Focus / Concentration
+2026-09-03 16:30:00.000,18–20,Postgraduate,3 - Moderate,Happy,Studying,High,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Stress Relief
+2026-09-03 16:55:00.000,18–20,Postgraduate,5 - Very High,Tired,Studying,Very High,1–2 hours,Lo-fi,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-03 16:55:00.000,18–20,Second Year,2 - Low,Neutral,Studying,Moderate,Less than 30 minutes,Instrumental,Pop,Better Mood
+2026-09-03 17:19:00.000,18–20,First Year,5 - Very High,Energetic,Studying,Very High,More than 4 hours,Lo-fi,Lo-fi,Sleep
+2026-09-03 17:49:00.000,Under 18,Third Year,2 - Low,Neutral,Studying,Moderate,2–4 hours,Pop,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-03 17:53:00.000,18–20,Second Year,2 - Low,Happy,Relaxing,Moderate,1–2 hours,Bollywood / Indian Film Music,Rock,Stress Relief
+2026-09-03 19:54:00.000,18–20,Third Year,1 - Very Low,Calm,Relaxing,Low,30–60 minutes,Bollywood / Indian Film Music,Devotional / Spiritual,Focus / Concentration
+2026-09-03 20:08:00.000,21–23,Second Year,4 - High,Anxious,Other,High,1–2 hours,Lo-fi,Classical,Stress Relief
+2026-09-03 20:49:00.000,21–23,First Year,4 - High,Energetic,Relaxing,Moderate,2–4 hours,Ambient,Ambient,Stress Relief
+2026-09-04 10:03:00.000,24+,First Year,1 - Very Low,Neutral,Studying,Low,1–2 hours,Lo-fi,Hip-Hop / Rap,Sleep
+2026-09-04 10:07:00.000,18–20,Third Year,4 - High,Tired,Studying,Very High,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-04 10:45:00.000,18–20,Second Year,1 - Very Low,Calm,Studying,Low,30–60 minutes,Other,Other,Better Mood
+2026-09-04 10:55:00.000,21–23,Postgraduate,4 - High,Happy,Studying,High,2–4 hours,Electronic,Ambient,Focus / Concentration
+2026-09-04 11:13:00.000,21–23,Postgraduate,1 - Very Low,Calm,Studying,Low,More than 4 hours,Bollywood / Indian Film Music,Lo-fi,Better Mood
+2026-09-04 11:35:00.000,21–23,Second Year,5 - Very High,Tired,Studying,Moderate,2–4 hours,Electronic,Ambient,Sleep
+2026-09-04 11:36:00.000,Under 18,First Year,4 - High,Tired,Relaxing,High,1–2 hours,Classical,Pop,Stress Relief
+2026-09-04 11:56:00.000,Under 18,First Year,3 - Moderate,Neutral,Relaxing,Low,Less than 30 minutes,Pop,Pop,Sleep
+2026-09-04 14:00:00.000,18–20,First Year,3 - Moderate,Irritated,Studying,Moderate,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Energy / Motivation
+2026-09-04 14:25:00.000,18–20,Second Year,4 - High,Energetic,Exercising,Very High,30–60 minutes,Instrumental,Bollywood / Indian Film Music,Stress Relief
+2026-09-04 14:36:00.000,18–20,First Year,4 - High,Neutral,Relaxing,High,30–60 minutes,Instrumental,Instrumental,Emotional Comfort
+2026-09-04 15:55:00.000,18–20,Second Year,4 - High,Irritated,Travelling,Very High,1–2 hours,Instrumental,Instrumental,Relaxation
+2026-09-04 16:34:00.000,24+,Second Year,2 - Low,Neutral,Preparing for sleep,Moderate,Less than 30 minutes,Pop,Pop,Stress Relief
+2026-09-04 16:50:00.000,18–20,Postgraduate,1 - Very Low,Energetic,Preparing for sleep,Moderate,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-04 17:24:00.000,24+,Postgraduate,5 - Very High,Calm,Studying,High,1–2 hours,Instrumental,Ambient,Better Mood
+2026-09-04 17:25:00.000,18–20,Third Year,3 - Moderate,Neutral,Exercising,High,1–2 hours,Hip-Hop / Rap,Bollywood / Indian Film Music,Sleep
+2026-09-04 17:51:00.000,18–20,Postgraduate,3 - Moderate,Energetic,Studying,High,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-04 18:27:00.000,18–20,Second Year,3 - Moderate,Neutral,Studying,High,1–2 hours,Devotional / Spiritual,Lo-fi,Focus / Concentration
+2026-09-04 18:48:00.000,24+,Second Year,3 - Moderate,Tired,Studying,Moderate,1–2 hours,Devotional / Spiritual,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-04 19:28:00.000,24+,Third Year,4 - High,Neutral,Relaxing,High,Less than 30 minutes,Pop,Pop,Focus / Concentration
+2026-09-04 19:50:00.000,21–23,Second Year,2 - Low,Neutral,Studying,Low,Less than 30 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Relaxation
+2026-09-04 21:18:00.000,18–20,Second Year,2 - Low,Happy,Exercising,Low,30–60 minutes,Classical,Other,Focus / Concentration
+2026-09-05 10:33:00.000,18–20,First Year,3 - Moderate,Neutral,Studying,Moderate,2–4 hours,Electronic,Bollywood / Indian Film Music,Relaxation
+2026-09-05 11:02:00.000,18–20,First Year,3 - Moderate,Anxious,Studying,Moderate,1–2 hours,Rock,Rock,Sleep
+2026-09-05 13:00:00.000,21–23,Third Year,1 - Very Low,Energetic,Travelling,Low,30–60 minutes,Pop,Bollywood / Indian Film Music,Stress Relief
+2026-09-05 13:51:00.000,21–23,First Year,2 - Low,Calm,Relaxing,Very Low,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-05 14:25:00.000,21–23,Third Year,2 - Low,Happy,Studying,Low,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Energy / Motivation
+2026-09-05 17:02:00.000,21–23,Postgraduate,3 - Moderate,Neutral,Studying,Moderate,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,No Specific Goal
+2026-09-05 18:17:00.000,18–20,Third Year,4 - High,Energetic,Relaxing,High,30–60 minutes,Rock,Lo-fi,Focus / Concentration
+2026-09-05 18:43:00.000,18–20,Second Year,2 - Low,Calm,Studying,Moderate,Less than 30 minutes,Lo-fi,Pop,Focus / Concentration
+2026-09-05 19:20:00.000,21–23,Third Year,5 - Very High,Anxious,Other,High,2–4 hours,Ambient,Bollywood / Indian Film Music,Relaxation
+2026-09-05 19:50:00.000,21–23,Second Year,5 - Very High,Neutral,Studying,High,30–60 minutes,Classical,Classical,Focus / Concentration
+2026-09-05 20:03:00.000,18–20,Third Year,3 - Moderate,Anxious,Relaxing,Moderate,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-05 20:15:00.000,18–20,First Year,4 - High,Happy,Working,High,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Relaxation
+2026-09-05 21:37:00.000,18–20,Second Year,4 - High,Tired,Studying,Very High,30–60 minutes,Instrumental,Instrumental,No Specific Goal
+2026-09-06 11:00:00.000,18–20,Second Year,2 - Low,Calm,Relaxing,Moderate,2–4 hours,Bollywood / Indian Film Music,Instrumental,Stress Relief
+2026-09-06 13:45:00.000,18–20,Third Year,5 - Very High,Anxious,Studying,Very High,More than 4 hours,Lo-fi,Lo-fi,Emotional Comfort
+2026-09-06 14:06:00.000,21–23,First Year,5 - Very High,Tired,Studying,Very High,1–2 hours,Instrumental,Instrumental,Emotional Comfort
+2026-09-06 14:14:00.000,18–20,Postgraduate,1 - Very Low,Calm,Studying,Low,More than 4 hours,Classical,Bollywood / Indian Film Music,Better Mood
+2026-09-06 14:42:00.000,21–23,First Year,1 - Very Low,Happy,Relaxing,Very Low,1–2 hours,Pop,Pop,Relaxation
+2026-09-06 14:43:00.000,18–20,Postgraduate,5 - Very High,Tired,Studying,Very High,30–60 minutes,Classical,Classical,Focus / Concentration
+2026-09-06 14:56:00.000,21–23,Second Year,3 - Moderate,Tired,Travelling,Very High,30–60 minutes,Lo-fi,Lo-fi,Focus / Concentration
+2026-09-06 15:21:00.000,21–23,Third Year,3 - Moderate,Tired,Relaxing,High,30–60 minutes,Classical,Bollywood / Indian Film Music,Better Mood
+2026-09-06 15:34:00.000,21–23,Third Year,4 - High,Neutral,Studying,Moderate,More than 4 hours,Lo-fi,Lo-fi,Focus / Concentration
+2026-09-06 16:03:00.000,21–23,Third Year,1 - Very Low,Neutral,Studying,Moderate,1–2 hours,Pop,Instrumental,Better Mood
+2026-09-06 17:04:00.000,21–23,Third Year,3 - Moderate,Happy,Studying,Moderate,30–60 minutes,Lo-fi,Classical,Energy / Motivation
+2026-09-06 18:11:00.000,18–20,Postgraduate,4 - High,Neutral,Studying,High,More than 4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-06 18:40:00.000,18–20,Second Year,4 - High,Calm,Relaxing,High,1–2 hours,Hip-Hop / Rap,Lo-fi,Relaxation
+2026-09-06 18:47:00.000,21–23,First Year,2 - Low,Calm,Relaxing,Moderate,More than 4 hours,Instrumental,Pop,Relaxation
+2026-09-06 18:48:00.000,18–20,First Year,2 - Low,Anxious,Working,Moderate,Less than 30 minutes,Pop,Pop,Focus / Concentration
+2026-09-06 19:22:00.000,24+,Third Year,5 - Very High,Anxious,Exercising,Very High,1–2 hours,Devotional / Spiritual,Pop,Stress Relief
+2026-09-07 10:33:00.000,24+,Second Year,4 - High,Tired,Working,High,30–60 minutes,Pop,Ambient,Stress Relief
+2026-09-07 11:12:00.000,18–20,Second Year,2 - Low,Irritated,Working,Low,30–60 minutes,Devotional / Spiritual,Rock,Stress Relief
+2026-09-07 13:40:00.000,18–20,First Year,1 - Very Low,Tired,Relaxing,Moderate,2–4 hours,Hip-Hop / Rap,Ambient,Stress Relief
+2026-09-07 14:34:00.000,18–20,Second Year,4 - High,Anxious,Exercising,High,30–60 minutes,Ambient,Pop,Better Mood
+2026-09-07 14:57:00.000,18–20,Third Year,4 - High,Neutral,Exercising,Moderate,1–2 hours,Lo-fi,Instrumental,Emotional Comfort
+2026-09-07 15:06:00.000,21–23,Third Year,3 - Moderate,Happy,Studying,High,1–2 hours,Classical,Classical,Focus / Concentration
+2026-09-07 15:20:00.000,24+,First Year,5 - Very High,Energetic,Exercising,High,2–4 hours,Classical,Classical,Relaxation
+2026-09-07 15:24:00.000,18–20,First Year,2 - Low,Happy,Other,Moderate,30–60 minutes,Classical,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-07 16:19:00.000,18–20,Third Year,5 - Very High,Tired,Studying,High,30–60 minutes,Lo-fi,Lo-fi,Stress Relief
+2026-09-07 16:30:00.000,21–23,Third Year,2 - Low,Happy,Working,High,1–2 hours,Instrumental,Instrumental,Better Mood
+2026-09-07 16:35:00.000,18–20,Third Year,5 - Very High,Calm,Studying,High,1–2 hours,Instrumental,Instrumental,Stress Relief
+2026-09-07 17:45:00.000,18–20,Second Year,3 - Moderate,Sad,Travelling,Moderate,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-07 18:36:00.000,18–20,First Year,5 - Very High,Tired,Studying,High,30–60 minutes,Bollywood / Indian Film Music,Instrumental,Relaxation
+2026-09-07 19:04:00.000,21–23,First Year,3 - Moderate,Neutral,Travelling,Low,1–2 hours,Electronic,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-07 20:08:00.000,21–23,Third Year,2 - Low,Sad,Preparing for sleep,Very Low,Less than 30 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-08 10:50:00.000,18–20,Second Year,3 - Moderate,Tired,Travelling,High,2–4 hours,Bollywood / Indian Film Music,Devotional / Spiritual,Better Mood
+2026-09-08 11:13:00.000,18–20,First Year,2 - Low,Neutral,Studying,High,1–2 hours,Electronic,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-08 13:25:00.000,Under 18,Postgraduate,2 - Low,Happy,Relaxing,Moderate,30–60 minutes,Classical,Lo-fi,Relaxation
+2026-09-08 13:40:00.000,18–20,First Year,1 - Very Low,Happy,Studying,Low,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Energy / Motivation
+2026-09-08 13:42:00.000,18–20,Postgraduate,3 - Moderate,Neutral,Preparing for sleep,High,2–4 hours,Lo-fi,Other,Energy / Motivation
+2026-09-08 14:09:00.000,18–20,Third Year,2 - Low,Anxious,Studying,Moderate,30–60 minutes,Ambient,Instrumental,No Specific Goal
+2026-09-08 15:08:00.000,18–20,First Year,2 - Low,Calm,Relaxing,Low,1–2 hours,Lo-fi,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-08 15:54:00.000,18–20,First Year,4 - High,Tired,Relaxing,High,Less than 30 minutes,Pop,Pop,Sleep
+2026-09-08 16:37:00.000,18–20,First Year,1 - Very Low,Calm,Preparing for sleep,Moderate,1–2 hours,Electronic,Hip-Hop / Rap,Better Mood
+2026-09-08 16:57:00.000,18–20,Second Year,2 - Low,Sad,Studying,Moderate,2–4 hours,Pop,Instrumental,Stress Relief
+2026-09-08 17:16:00.000,Under 18,Third Year,3 - Moderate,Calm,Studying,High,1–2 hours,Bollywood / Indian Film Music,Classical,Relaxation
+2026-09-08 19:28:00.000,24+,Third Year,3 - Moderate,Calm,Working,Moderate,30–60 minutes,Devotional / Spiritual,Bollywood / Indian Film Music,Relaxation
+2026-09-08 19:37:00.000,18–20,Second Year,4 - High,Irritated,Studying,High,1–2 hours,Lo-fi,Lo-fi,No Specific Goal
+2026-09-08 21:21:00.000,18–20,First Year,2 - Low,Happy,Studying,Low,2–4 hours,Electronic,Instrumental,Relaxation
+2026-09-08 21:23:00.000,18–20,Postgraduate,3 - Moderate,Neutral,Relaxing,High,Less than 30 minutes,Instrumental,Instrumental,Emotional Comfort
+2026-09-09 09:59:00.000,21–23,Second Year,2 - Low,Calm,Studying,Moderate,1–2 hours,Rock,Electronic,Relaxation
+2026-09-09 11:11:00.000,18–20,Postgraduate,4 - High,Tired,Relaxing,Moderate,2–4 hours,Pop,Classical,Stress Relief
+2026-09-09 11:56:00.000,18–20,Postgraduate,5 - Very High,Anxious,Preparing for sleep,Very High,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-09 13:08:00.000,18–20,Third Year,4 - High,Sad,Other,Moderate,Less than 30 minutes,Pop,Pop,Emotional Comfort
+2026-09-09 14:35:00.000,21–23,Third Year,5 - Very High,Happy,Studying,High,30–60 minutes,Pop,Pop,Focus / Concentration
+2026-09-09 15:50:00.000,18–20,Postgraduate,2 - Low,Neutral,Studying,Moderate,2–4 hours,Devotional / Spiritual,Hip-Hop / Rap,Relaxation
+2026-09-09 16:21:00.000,24+,Third Year,3 - Moderate,Neutral,Relaxing,High,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Stress Relief
+2026-09-09 16:57:00.000,18–20,Second Year,2 - Low,Energetic,Preparing for sleep,Moderate,1–2 hours,Instrumental,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-09 17:46:00.000,21–23,Second Year,3 - Moderate,Happy,Working,Moderate,30–60 minutes,Rock,Rock,Better Mood
+2026-09-09 18:16:00.000,18–20,First Year,3 - Moderate,Neutral,Relaxing,Low,30–60 minutes,Pop,Pop,Relaxation
+2026-09-09 18:24:00.000,24+,Third Year,2 - Low,Neutral,Studying,High,30–60 minutes,Pop,Pop,Relaxation
+2026-09-09 20:12:00.000,18–20,First Year,5 - Very High,Sad,Studying,High,More than 4 hours,Classical,Pop,Sleep
+2026-09-10 09:01:00.000,18–20,Second Year,2 - Low,Happy,Travelling,Low,1–2 hours,Hip-Hop / Rap,Pop,Energy / Motivation
+2026-09-10 09:20:00.000,Under 18,First Year,4 - High,Happy,Studying,Moderate,1–2 hours,Instrumental,Classical,Stress Relief
+2026-09-10 11:03:00.000,24+,Third Year,3 - Moderate,Neutral,Relaxing,Moderate,30–60 minutes,Bollywood / Indian Film Music,Pop,Stress Relief
+2026-09-10 11:21:00.000,18–20,Second Year,2 - Low,Neutral,Studying,Low,30–60 minutes,Devotional / Spiritual,Devotional / Spiritual,Sleep
+2026-09-10 11:22:00.000,18–20,Third Year,3 - Moderate,Tired,Studying,Moderate,Less than 30 minutes,Devotional / Spiritual,Devotional / Spiritual,Emotional Comfort
+2026-09-10 12:04:00.000,18–20,First Year,2 - Low,Sad,Studying,Moderate,1–2 hours,Pop,Bollywood / Indian Film Music,Better Mood
+2026-09-10 12:40:00.000,21–23,First Year,4 - High,Anxious,Exercising,Moderate,Less than 30 minutes,Pop,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-10 13:36:00.000,21–23,Second Year,1 - Very Low,Energetic,Preparing for sleep,Low,Less than 30 minutes,Pop,Bollywood / Indian Film Music,Relaxation
+2026-09-10 13:49:00.000,18–20,First Year,5 - Very High,Neutral,Studying,Very High,2–4 hours,Classical,Classical,Stress Relief
+2026-09-10 13:58:00.000,18–20,Third Year,3 - Moderate,Neutral,Working,High,2–4 hours,Pop,Instrumental,Relaxation
+2026-09-10 14:14:00.000,18–20,Third Year,4 - High,Neutral,Relaxing,High,2–4 hours,Ambient,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-10 15:00:00.000,18–20,First Year,3 - Moderate,Happy,Exercising,Moderate,Less than 30 minutes,Bollywood / Indian Film Music,Classical,Relaxation
+2026-09-10 15:28:00.000,18–20,Second Year,5 - Very High,Energetic,Studying,Very High,30–60 minutes,Classical,Lo-fi,Emotional Comfort
+2026-09-10 15:35:00.000,21–23,Second Year,4 - High,Happy,Preparing for sleep,High,30–60 minutes,Bollywood / Indian Film Music,Lo-fi,Better Mood
+2026-09-10 17:07:00.000,21–23,First Year,4 - High,Irritated,Studying,Very High,1–2 hours,Ambient,Pop,Emotional Comfort
+2026-09-10 17:11:00.000,18–20,First Year,2 - Low,Calm,Exercising,Low,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Energy / Motivation
+2026-09-10 17:14:00.000,21–23,Third Year,5 - Very High,Sad,Studying,High,1–2 hours,Other,Other,Emotional Comfort
+2026-09-10 17:16:00.000,21–23,Postgraduate,1 - Very Low,Calm,Working,Low,30–60 minutes,Instrumental,Pop,Relaxation
+2026-09-10 18:12:00.000,18–20,First Year,2 - Low,Tired,Studying,Moderate,More than 4 hours,Pop,Rock,Stress Relief
+2026-09-10 18:39:00.000,18–20,First Year,3 - Moderate,Happy,Working,Moderate,2–4 hours,Instrumental,Bollywood / Indian Film Music,Stress Relief
+2026-09-10 19:11:00.000,18–20,Postgraduate,4 - High,Neutral,Exercising,Moderate,Less than 30 minutes,Devotional / Spiritual,Devotional / Spiritual,No Specific Goal
+2026-09-11 09:23:00.000,21–23,Third Year,2 - Low,Energetic,Studying,High,2–4 hours,Lo-fi,Instrumental,Energy / Motivation
+2026-09-11 11:15:00.000,21–23,Third Year,4 - High,Calm,Travelling,Moderate,30–60 minutes,Instrumental,Instrumental,Relaxation
+2026-09-11 12:23:00.000,18–20,Second Year,3 - Moderate,Energetic,Relaxing,High,Less than 30 minutes,Pop,Pop,Energy / Motivation
+2026-09-11 13:23:00.000,18–20,First Year,5 - Very High,Anxious,Studying,Very High,1–2 hours,Devotional / Spiritual,Devotional / Spiritual,No Specific Goal
+2026-09-11 14:18:00.000,21–23,Postgraduate,4 - High,Tired,Studying,Moderate,2–4 hours,Ambient,Classical,Better Mood
+2026-09-11 14:45:00.000,21–23,Second Year,4 - High,Neutral,Studying,Very High,2–4 hours,Lo-fi,Bollywood / Indian Film Music,Better Mood
+2026-09-11 15:16:00.000,18–20,Second Year,3 - Moderate,Anxious,Working,Moderate,More than 4 hours,Lo-fi,Lo-fi,Relaxation
+2026-09-11 15:16:00.000,18–20,First Year,5 - Very High,Anxious,Studying,Very High,1–2 hours,Lo-fi,Bollywood / Indian Film Music,Stress Relief
+2026-09-11 16:08:00.000,Under 18,Third Year,3 - Moderate,Anxious,Relaxing,Moderate,1–2 hours,Rock,Bollywood / Indian Film Music,Sleep
+2026-09-11 16:48:00.000,21–23,Second Year,4 - High,Sad,Studying,Moderate,2–4 hours,Classical,Ambient,Focus / Concentration
+2026-09-11 17:19:00.000,24+,Second Year,1 - Very Low,Neutral,Studying,Very Low,30–60 minutes,Bollywood / Indian Film Music,Pop,Relaxation
+2026-09-11 18:51:00.000,18–20,First Year,2 - Low,Happy,Studying,Very High,Less than 30 minutes,Bollywood / Indian Film Music,Instrumental,Relaxation
+2026-09-11 19:11:00.000,21–23,Second Year,1 - Very Low,Neutral,Studying,Very Low,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Relaxation
+2026-09-12 11:52:00.000,18–20,Postgraduate,4 - High,Neutral,Other,High,Less than 30 minutes,Pop,Pop,Relaxation
+2026-09-12 12:14:00.000,18–20,First Year,3 - Moderate,Happy,Studying,Moderate,More than 4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Relaxation
+2026-09-12 12:17:00.000,18–20,Third Year,2 - Low,Calm,Preparing for sleep,Very Low,30–60 minutes,Rock,Bollywood / Indian Film Music,Stress Relief
+2026-09-12 12:36:00.000,18–20,Postgraduate,1 - Very Low,Happy,Exercising,Low,30–60 minutes,Pop,Pop,Better Mood
+2026-09-12 12:49:00.000,24+,First Year,4 - High,Anxious,Working,Low,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,No Specific Goal
+2026-09-12 14:02:00.000,24+,Second Year,3 - Moderate,Neutral,Relaxing,Low,1–2 hours,Rock,Lo-fi,Relaxation
+2026-09-12 14:26:00.000,21–23,Third Year,3 - Moderate,Happy,Travelling,Moderate,30–60 minutes,Classical,Classical,Focus / Concentration
+2026-09-12 14:40:00.000,21–23,Second Year,3 - Moderate,Energetic,Travelling,Moderate,2–4 hours,Electronic,Pop,Relaxation
+2026-09-12 14:52:00.000,21–23,First Year,3 - Moderate,Neutral,Exercising,Low,2–4 hours,Bollywood / Indian Film Music,Classical,Focus / Concentration
+2026-09-12 15:52:00.000,Under 18,Second Year,1 - Very Low,Energetic,Exercising,Very Low,2–4 hours,Classical,Rock,Better Mood
+2026-09-12 16:00:00.000,18–20,Second Year,4 - High,Neutral,Preparing for sleep,Moderate,1–2 hours,Lo-fi,Ambient,Focus / Concentration
+2026-09-12 16:52:00.000,24+,First Year,1 - Very Low,Happy,Relaxing,Low,30–60 minutes,Classical,Hip-Hop / Rap,Focus / Concentration
+2026-09-12 17:11:00.000,18–20,Third Year,3 - Moderate,Neutral,Working,Very Low,Less than 30 minutes,Instrumental,Instrumental,Better Mood
+2026-09-12 17:35:00.000,18–20,First Year,2 - Low,Calm,Relaxing,Moderate,1–2 hours,Pop,Bollywood / Indian Film Music,Better Mood
+2026-09-12 17:53:00.000,18–20,First Year,1 - Very Low,Calm,Relaxing,Low,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Sleep
+2026-09-12 18:03:00.000,24+,Third Year,1 - Very Low,Neutral,Other,Low,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Stress Relief
+2026-09-12 19:54:00.000,18–20,Postgraduate,1 - Very Low,Energetic,Exercising,Low,1–2 hours,Pop,Pop,Energy / Motivation
+2026-09-12 20:43:00.000,18–20,Second Year,4 - High,Anxious,Relaxing,High,1–2 hours,Lo-fi,Lo-fi,Focus / Concentration
+2026-09-12 21:17:00.000,21–23,Third Year,2 - Low,Calm,Travelling,Moderate,30–60 minutes,Devotional / Spiritual,Lo-fi,Energy / Motivation
+2026-09-13 10:46:00.000,18–20,First Year,5 - Very High,Anxious,Relaxing,High,1–2 hours,Lo-fi,Pop,Focus / Concentration
+2026-09-13 11:31:00.000,18–20,Third Year,3 - Moderate,Calm,Studying,Very High,1–2 hours,Pop,Pop,Emotional Comfort
+2026-09-13 11:54:00.000,18–20,Second Year,3 - Moderate,Neutral,Preparing for sleep,Low,2–4 hours,Pop,Classical,Emotional Comfort
+2026-09-13 12:31:00.000,18–20,Postgraduate,4 - High,Calm,Preparing for sleep,High,1–2 hours,Lo-fi,Bollywood / Indian Film Music,Sleep
+2026-09-13 12:37:00.000,18–20,First Year,1 - Very Low,Neutral,Preparing for sleep,Low,1–2 hours,Ambient,Ambient,Focus / Concentration
+2026-09-13 13:02:00.000,21–23,First Year,2 - Low,Happy,Travelling,Moderate,30–60 minutes,Instrumental,Lo-fi,Better Mood
+2026-09-13 13:24:00.000,21–23,First Year,3 - Moderate,Irritated,Studying,High,Less than 30 minutes,Rock,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-13 13:33:00.000,18–20,First Year,1 - Very Low,Happy,Exercising,Low,2–4 hours,Pop,Pop,Energy / Motivation
+2026-09-13 13:44:00.000,21–23,Third Year,3 - Moderate,Neutral,Exercising,Moderate,1–2 hours,Electronic,Electronic,Focus / Concentration
+2026-09-13 14:34:00.000,21–23,Postgraduate,3 - Moderate,Neutral,Working,Low,Less than 30 minutes,Bollywood / Indian Film Music,Pop,Relaxation
+2026-09-13 15:00:00.000,18–20,Second Year,1 - Very Low,Calm,Relaxing,Low,2–4 hours,Hip-Hop / Rap,Rock,Energy / Motivation
+2026-09-13 15:13:00.000,18–20,Third Year,3 - Moderate,Calm,Exercising,Moderate,30–60 minutes,Electronic,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-13 16:37:00.000,21–23,Second Year,3 - Moderate,Calm,Studying,High,Less than 30 minutes,Electronic,Electronic,Emotional Comfort
+2026-09-13 16:47:00.000,21–23,First Year,5 - Very High,Tired,Studying,Very High,30–60 minutes,Hip-Hop / Rap,Lo-fi,Sleep
+2026-09-13 17:10:00.000,18–20,Second Year,4 - High,Anxious,Studying,Very High,1–2 hours,Devotional / Spiritual,Devotional / Spiritual,Stress Relief
+2026-09-13 17:53:00.000,21–23,First Year,2 - Low,Neutral,Studying,Low,30–60 minutes,Hip-Hop / Rap,Hip-Hop / Rap,Stress Relief
+2026-09-13 18:36:00.000,18–20,Second Year,4 - High,Anxious,Studying,Moderate,1–2 hours,Classical,Lo-fi,Emotional Comfort
+2026-09-13 19:40:00.000,18–20,Postgraduate,1 - Very Low,Neutral,Studying,Low,Less than 30 minutes,Bollywood / Indian Film Music,Rock,Better Mood
+2026-09-14 10:01:00.000,18–20,Second Year,2 - Low,Energetic,Preparing for sleep,Moderate,30–60 minutes,Electronic,Lo-fi,Focus / Concentration
+2026-09-14 10:09:00.000,18–20,Third Year,5 - Very High,Sad,Exercising,Very High,1–2 hours,Hip-Hop / Rap,Ambient,Focus / Concentration
+2026-09-14 10:13:00.000,18–20,Second Year,3 - Moderate,Happy,Studying,Low,30–60 minutes,Instrumental,Pop,Emotional Comfort
+2026-09-14 11:06:00.000,21–23,Postgraduate,3 - Moderate,Tired,Working,Moderate,30–60 minutes,Instrumental,Instrumental,Relaxation
+2026-09-14 11:17:00.000,18–20,Second Year,3 - Moderate,Neutral,Relaxing,Low,30–60 minutes,Hip-Hop / Rap,Hip-Hop / Rap,Energy / Motivation
+2026-09-14 11:30:00.000,21–23,Postgraduate,4 - High,Tired,Studying,Moderate,1–2 hours,Classical,Lo-fi,Stress Relief
+2026-09-14 11:33:00.000,Under 18,First Year,3 - Moderate,Tired,Studying,Moderate,Less than 30 minutes,Hip-Hop / Rap,Lo-fi,Relaxation
+2026-09-14 12:03:00.000,24+,First Year,1 - Very Low,Happy,Travelling,Low,30–60 minutes,Ambient,Ambient,Stress Relief
+2026-09-14 12:58:00.000,21–23,Third Year,2 - Low,Happy,Working,Moderate,2–4 hours,Rock,Electronic,Relaxation
+2026-09-14 12:59:00.000,Under 18,First Year,2 - Low,Energetic,Studying,Low,1–2 hours,Classical,Classical,Focus / Concentration
+2026-09-14 13:14:00.000,21–23,First Year,4 - High,Sad,Relaxing,High,Less than 30 minutes,Lo-fi,Ambient,No Specific Goal
+2026-09-14 13:44:00.000,18–20,First Year,2 - Low,Neutral,Relaxing,High,1–2 hours,Rock,Bollywood / Indian Film Music,Relaxation
+2026-09-14 14:09:00.000,Under 18,Third Year,5 - Very High,Calm,Preparing for sleep,High,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-14 14:18:00.000,Under 18,Third Year,4 - High,Calm,Relaxing,Moderate,Less than 30 minutes,Lo-fi,Bollywood / Indian Film Music,Stress Relief
+2026-09-14 15:32:00.000,18–20,Second Year,1 - Very Low,Neutral,Other,Very Low,30–60 minutes,Electronic,Hip-Hop / Rap,Stress Relief
+2026-09-14 15:59:00.000,18–20,Third Year,3 - Moderate,Happy,Studying,High,2–4 hours,Ambient,Ambient,Relaxation
+2026-09-14 18:11:00.000,Under 18,Second Year,3 - Moderate,Neutral,Studying,High,2–4 hours,Lo-fi,Instrumental,Relaxation
+2026-09-14 18:26:00.000,21–23,Second Year,1 - Very Low,Calm,Studying,Low,1–2 hours,Lo-fi,Bollywood / Indian Film Music,Relaxation
+2026-09-14 19:26:00.000,18–20,First Year,3 - Moderate,Anxious,Relaxing,Low,30–60 minutes,Pop,Classical,Stress Relief
+2026-09-14 19:39:00.000,18–20,Third Year,3 - Moderate,Happy,Preparing for sleep,High,Less than 30 minutes,Pop,Hip-Hop / Rap,Stress Relief
+2026-09-14 20:03:00.000,21–23,Second Year,3 - Moderate,Anxious,Studying,Moderate,1–2 hours,Instrumental,Bollywood / Indian Film Music,Stress Relief
+2026-09-15 09:26:00.000,18–20,Second Year,3 - Moderate,Anxious,Relaxing,Moderate,1–2 hours,Instrumental,Instrumental,Focus / Concentration
+2026-09-15 09:37:00.000,18–20,First Year,3 - Moderate,Happy,Working,High,1–2 hours,Hip-Hop / Rap,Instrumental,Better Mood
+2026-09-15 09:59:00.000,24+,Second Year,3 - Moderate,Anxious,Working,Moderate,Less than 30 minutes,Pop,Pop,Stress Relief
+2026-09-15 10:49:00.000,21–23,First Year,5 - Very High,Sad,Relaxing,High,1–2 hours,Lo-fi,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-15 11:42:00.000,21–23,First Year,2 - Low,Anxious,Preparing for sleep,High,2–4 hours,Pop,Bollywood / Indian Film Music,Relaxation
+2026-09-15 11:50:00.000,21–23,Postgraduate,4 - High,Irritated,Preparing for sleep,High,Less than 30 minutes,Ambient,Classical,Better Mood
+2026-09-15 12:41:00.000,18–20,Second Year,5 - Very High,Tired,Studying,Very High,30–60 minutes,Pop,Bollywood / Indian Film Music,Stress Relief
+2026-09-15 13:09:00.000,18–20,First Year,4 - High,Neutral,Relaxing,High,2–4 hours,Instrumental,Instrumental,Emotional Comfort
+2026-09-15 14:24:00.000,18–20,Third Year,5 - Very High,Irritated,Travelling,Moderate,30–60 minutes,Bollywood / Indian Film Music,Pop,Focus / Concentration
+2026-09-15 15:32:00.000,18–20,Third Year,5 - Very High,Tired,Travelling,High,1–2 hours,Ambient,Ambient,Focus / Concentration
+2026-09-15 16:05:00.000,24+,Third Year,4 - High,Anxious,Studying,High,2–4 hours,Ambient,Ambient,Stress Relief
+2026-09-15 16:32:00.000,18–20,Second Year,4 - High,Happy,Travelling,High,More than 4 hours,Instrumental,Instrumental,Better Mood
+2026-09-15 17:29:00.000,18–20,Second Year,4 - High,Tired,Relaxing,High,2–4 hours,Pop,Lo-fi,Stress Relief
+2026-09-15 17:32:00.000,18–20,Second Year,3 - Moderate,Calm,Exercising,High,1–2 hours,Ambient,Pop,Emotional Comfort
+2026-09-15 17:39:00.000,18–20,Second Year,2 - Low,Energetic,Working,Low,1–2 hours,Instrumental,Instrumental,Better Mood
+2026-09-15 18:52:00.000,18–20,Postgraduate,3 - Moderate,Tired,Studying,Moderate,2–4 hours,Electronic,Electronic,Better Mood
+2026-09-15 18:53:00.000,18–20,Second Year,5 - Very High,Sad,Preparing for sleep,High,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-16 11:10:00.000,21–23,Third Year,3 - Moderate,Anxious,Studying,Moderate,2–4 hours,Other,Lo-fi,Stress Relief
+2026-09-16 11:44:00.000,21–23,Third Year,2 - Low,Irritated,Studying,Very Low,2–4 hours,Lo-fi,Rock,Relaxation
+2026-09-16 13:34:00.000,21–23,Third Year,3 - Moderate,Tired,Studying,High,Less than 30 minutes,Bollywood / Indian Film Music,Electronic,Better Mood
+2026-09-16 14:25:00.000,18–20,Third Year,4 - High,Neutral,Studying,High,30–60 minutes,Bollywood / Indian Film Music,Ambient,Better Mood
+2026-09-16 15:09:00.000,18–20,Second Year,3 - Moderate,Neutral,Relaxing,High,2–4 hours,Rock,Rock,Better Mood
+2026-09-16 15:47:00.000,18–20,Second Year,4 - High,Neutral,Relaxing,Very High,1–2 hours,Classical,Lo-fi,Stress Relief
+2026-09-16 15:49:00.000,18–20,First Year,2 - Low,Calm,Studying,Moderate,More than 4 hours,Pop,Pop,Better Mood
+2026-09-16 16:32:00.000,Under 18,First Year,3 - Moderate,Irritated,Relaxing,Moderate,30–60 minutes,Pop,Ambient,Better Mood
+2026-09-16 16:49:00.000,18–20,Third Year,2 - Low,Calm,Studying,Very Low,1–2 hours,Bollywood / Indian Film Music,Classical,Better Mood
+2026-09-16 16:52:00.000,18–20,Third Year,3 - Moderate,Happy,Preparing for sleep,Moderate,30–60 minutes,Devotional / Spiritual,Pop,Focus / Concentration
+2026-09-16 17:37:00.000,18–20,Second Year,2 - Low,Tired,Studying,Moderate,1–2 hours,Bollywood / Indian Film Music,Classical,Focus / Concentration
+2026-09-16 19:02:00.000,18–20,First Year,2 - Low,Happy,Relaxing,Low,30–60 minutes,Hip-Hop / Rap,Pop,Relaxation
+2026-09-17 11:19:00.000,18–20,Second Year,2 - Low,Happy,Preparing for sleep,Very Low,30–60 minutes,Instrumental,Rock,Energy / Motivation
+2026-09-17 12:29:00.000,18–20,Postgraduate,1 - Very Low,Energetic,Exercising,Very Low,1–2 hours,Devotional / Spiritual,Lo-fi,Relaxation
+2026-09-17 12:43:00.000,21–23,Second Year,4 - High,Irritated,Other,Moderate,More than 4 hours,Bollywood / Indian Film Music,Lo-fi,Emotional Comfort
+2026-09-17 12:46:00.000,24+,Third Year,4 - High,Irritated,Exercising,High,1–2 hours,Bollywood / Indian Film Music,Classical,Emotional Comfort
+2026-09-17 13:09:00.000,18–20,Third Year,3 - Moderate,Sad,Relaxing,Moderate,More than 4 hours,Rock,Rock,Better Mood
+2026-09-17 13:55:00.000,21–23,First Year,2 - Low,Calm,Relaxing,Low,30–60 minutes,Classical,Bollywood / Indian Film Music,Relaxation
+2026-09-17 14:10:00.000,Under 18,Third Year,3 - Moderate,Tired,Relaxing,Moderate,2–4 hours,Rock,Rock,Stress Relief
+2026-09-17 14:35:00.000,18–20,First Year,4 - High,Tired,Exercising,High,1–2 hours,Ambient,Electronic,Better Mood
+2026-09-17 14:35:00.000,Under 18,Postgraduate,4 - High,Anxious,Preparing for sleep,High,Less than 30 minutes,Devotional / Spiritual,Bollywood / Indian Film Music,Sleep
+2026-09-17 15:04:00.000,18–20,Third Year,3 - Moderate,Calm,Working,High,30–60 minutes,Ambient,Ambient,Sleep
+2026-09-17 15:30:00.000,18–20,First Year,2 - Low,Neutral,Studying,Low,1–2 hours,Lo-fi,Ambient,No Specific Goal
+2026-09-17 16:08:00.000,18–20,Second Year,1 - Very Low,Calm,Studying,Very Low,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-17 17:45:00.000,21–23,First Year,3 - Moderate,Anxious,Preparing for sleep,Moderate,2–4 hours,Rock,Instrumental,Sleep
+2026-09-17 18:39:00.000,18–20,Third Year,4 - High,Neutral,Studying,Moderate,1–2 hours,Classical,Classical,Stress Relief
+2026-09-17 19:31:00.000,21–23,First Year,5 - Very High,Sad,Working,Moderate,1–2 hours,Bollywood / Indian Film Music,Classical,Stress Relief
+2026-09-17 20:00:00.000,24+,Second Year,4 - High,Neutral,Studying,High,2–4 hours,Hip-Hop / Rap,Lo-fi,Relaxation
+2026-09-18 10:19:00.000,18–20,First Year,1 - Very Low,Neutral,Exercising,Low,1–2 hours,Devotional / Spiritual,Devotional / Spiritual,Better Mood
+2026-09-18 10:44:00.000,18–20,Second Year,3 - Moderate,Happy,Studying,High,Less than 30 minutes,Lo-fi,Pop,Better Mood
+2026-09-18 11:09:00.000,21–23,Third Year,4 - High,Neutral,Working,Moderate,30–60 minutes,Instrumental,Instrumental,Focus / Concentration
+2026-09-18 11:53:00.000,18–20,Postgraduate,4 - High,Neutral,Relaxing,Moderate,More than 4 hours,Classical,Classical,Focus / Concentration
+2026-09-18 13:13:00.000,18–20,Third Year,5 - Very High,Anxious,Working,High,More than 4 hours,Lo-fi,Lo-fi,Emotional Comfort
+2026-09-18 14:54:00.000,21–23,Postgraduate,3 - Moderate,Energetic,Studying,Moderate,30–60 minutes,Hip-Hop / Rap,Classical,Relaxation
+2026-09-18 17:14:00.000,21–23,Third Year,2 - Low,Neutral,Other,Very Low,2–4 hours,Hip-Hop / Rap,Instrumental,Relaxation
+2026-09-18 17:16:00.000,21–23,First Year,2 - Low,Sad,Studying,Low,2–4 hours,Pop,Lo-fi,No Specific Goal
+2026-09-18 17:44:00.000,Under 18,First Year,3 - Moderate,Calm,Relaxing,Moderate,1–2 hours,Hip-Hop / Rap,Bollywood / Indian Film Music,Relaxation
+2026-09-18 17:52:00.000,18–20,First Year,3 - Moderate,Neutral,Working,Low,1–2 hours,Bollywood / Indian Film Music,Instrumental,Focus / Concentration
+2026-09-18 18:07:00.000,18–20,Second Year,3 - Moderate,Sad,Exercising,High,2–4 hours,Rock,Rock,Stress Relief
+2026-09-18 18:22:00.000,18–20,Third Year,2 - Low,Sad,Travelling,Moderate,2–4 hours,Classical,Classical,Better Mood
+2026-09-18 19:11:00.000,18–20,Second Year,2 - Low,Happy,Studying,Moderate,1–2 hours,Bollywood / Indian Film Music,Lo-fi,Better Mood
+2026-09-18 19:12:00.000,18–20,Postgraduate,4 - High,Irritated,Relaxing,Moderate,1–2 hours,Ambient,Pop,Better Mood
+2026-09-18 19:29:00.000,21–23,First Year,3 - Moderate,Happy,Relaxing,High,Less than 30 minutes,Bollywood / Indian Film Music,Pop,Better Mood
+2026-09-19 11:26:00.000,18–20,Postgraduate,1 - Very Low,Energetic,Studying,Very Low,30–60 minutes,Rock,Instrumental,Focus / Concentration
+2026-09-19 11:47:00.000,18–20,First Year,4 - High,Energetic,Other,Very High,30–60 minutes,Bollywood / Indian Film Music,Lo-fi,Stress Relief
+2026-09-19 11:49:00.000,18–20,Postgraduate,4 - High,Tired,Studying,Very High,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Relaxation
+2026-09-19 13:04:00.000,18–20,Second Year,2 - Low,Neutral,Studying,Moderate,1–2 hours,Hip-Hop / Rap,Pop,Relaxation
+2026-09-19 13:09:00.000,18–20,Postgraduate,5 - Very High,Irritated,Relaxing,High,2–4 hours,Instrumental,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-19 14:44:00.000,18–20,Postgraduate,1 - Very Low,Calm,Studying,Low,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-19 16:29:00.000,21–23,Third Year,1 - Very Low,Happy,Preparing for sleep,Very Low,30–60 minutes,Instrumental,Instrumental,Relaxation
+2026-09-19 16:31:00.000,18–20,Second Year,1 - Very Low,Calm,Studying,Low,1–2 hours,Instrumental,Instrumental,Focus / Concentration
+2026-09-19 16:54:00.000,18–20,Second Year,5 - Very High,Anxious,Preparing for sleep,High,30–60 minutes,Instrumental,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-19 17:12:00.000,18–20,Second Year,3 - Moderate,Calm,Relaxing,Moderate,2–4 hours,Bollywood / Indian Film Music,Pop,Stress Relief
+2026-09-19 18:06:00.000,18–20,Third Year,5 - Very High,Energetic,Preparing for sleep,Very High,Less than 30 minutes,Instrumental,Instrumental,Energy / Motivation
+2026-09-19 18:41:00.000,21–23,First Year,4 - High,Tired,Studying,Low,30–60 minutes,Classical,Bollywood / Indian Film Music,Sleep
+2026-09-19 19:38:00.000,18–20,First Year,5 - Very High,Anxious,Preparing for sleep,Very High,1–2 hours,Instrumental,Instrumental,Stress Relief
+2026-09-19 19:54:00.000,18–20,Third Year,3 - Moderate,Happy,Other,Moderate,1–2 hours,Bollywood / Indian Film Music,Lo-fi,Stress Relief
+2026-09-20 09:17:00.000,18–20,Second Year,1 - Very Low,Happy,Studying,Very Low,30–60 minutes,Hip-Hop / Rap,Hip-Hop / Rap,Relaxation
+2026-09-20 10:00:00.000,18–20,Second Year,2 - Low,Neutral,Travelling,Low,More than 4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-20 10:46:00.000,18–20,Third Year,5 - Very High,Tired,Relaxing,High,More than 4 hours,Devotional / Spiritual,Lo-fi,Energy / Motivation
+2026-09-20 12:24:00.000,18–20,Third Year,3 - Moderate,Happy,Studying,Moderate,30–60 minutes,Pop,Lo-fi,Relaxation
+2026-09-20 13:01:00.000,21–23,Postgraduate,1 - Very Low,Calm,Preparing for sleep,Low,Less than 30 minutes,Rock,Classical,Better Mood
+2026-09-20 14:04:00.000,21–23,Second Year,5 - Very High,Irritated,Working,Very High,1–2 hours,Instrumental,Instrumental,Better Mood
+2026-09-20 14:08:00.000,18–20,First Year,2 - Low,Tired,Preparing for sleep,High,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-20 14:17:00.000,21–23,Postgraduate,4 - High,Happy,Studying,High,Less than 30 minutes,Bollywood / Indian Film Music,Instrumental,Stress Relief
+2026-09-20 14:36:00.000,21–23,Third Year,1 - Very Low,Happy,Working,Very Low,2–4 hours,Bollywood / Indian Film Music,Instrumental,Relaxation
+2026-09-20 15:01:00.000,18–20,First Year,2 - Low,Calm,Studying,Low,Less than 30 minutes,Pop,Classical,Energy / Motivation
+2026-09-20 15:17:00.000,18–20,First Year,2 - Low,Happy,Exercising,Very Low,1–2 hours,Pop,Instrumental,Focus / Concentration
+2026-09-20 16:05:00.000,21–23,Second Year,3 - Moderate,Energetic,Preparing for sleep,High,1–2 hours,Pop,Other,Focus / Concentration
+2026-09-20 16:13:00.000,21–23,Third Year,3 - Moderate,Tired,Relaxing,Moderate,Less than 30 minutes,Classical,Lo-fi,Stress Relief
+2026-09-20 18:20:00.000,18–20,Second Year,4 - High,Happy,Travelling,High,1–2 hours,Lo-fi,Instrumental,Energy / Motivation
+2026-09-20 18:37:00.000,18–20,First Year,4 - High,Tired,Studying,High,Less than 30 minutes,Ambient,Instrumental,No Specific Goal
+2026-09-20 18:44:00.000,18–20,Third Year,4 - High,Tired,Relaxing,High,2–4 hours,Classical,Instrumental,Stress Relief
+2026-09-20 19:09:00.000,18–20,Postgraduate,5 - Very High,Sad,Relaxing,Very High,Less than 30 minutes,Devotional / Spiritual,Devotional / Spiritual,Emotional Comfort
+2026-09-20 19:19:00.000,18–20,Postgraduate,3 - Moderate,Energetic,Relaxing,Moderate,1–2 hours,Instrumental,Instrumental,Stress Relief
+2026-09-21 10:51:00.000,18–20,Postgraduate,4 - High,Neutral,Studying,High,30–60 minutes,Instrumental,Instrumental,Stress Relief
+2026-09-21 12:09:00.000,18–20,Second Year,4 - High,Energetic,Studying,Very High,More than 4 hours,Classical,Classical,Stress Relief
+2026-09-21 13:54:00.000,21–23,First Year,3 - Moderate,Neutral,Studying,Moderate,1–2 hours,Other,Classical,Emotional Comfort
+2026-09-21 14:13:00.000,Under 18,Postgraduate,1 - Very Low,Energetic,Relaxing,Low,2–4 hours,Classical,Classical,Focus / Concentration
+2026-09-21 14:51:00.000,18–20,First Year,1 - Very Low,Happy,Working,Very Low,2–4 hours,Pop,Pop,Energy / Motivation
+2026-09-21 14:53:00.000,Under 18,Second Year,1 - Very Low,Happy,Relaxing,Low,30–60 minutes,Lo-fi,Electronic,Focus / Concentration
+2026-09-21 15:39:00.000,18–20,Second Year,2 - Low,Tired,Studying,Very Low,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-21 15:59:00.000,18–20,First Year,3 - Moderate,Energetic,Studying,High,Less than 30 minutes,Electronic,Rock,No Specific Goal
+2026-09-21 17:24:00.000,21–23,Third Year,2 - Low,Calm,Other,Low,1–2 hours,Lo-fi,Lo-fi,Better Mood
+2026-09-21 18:37:00.000,21–23,Second Year,4 - High,Happy,Preparing for sleep,Moderate,1–2 hours,Pop,Pop,Sleep
+2026-09-21 20:14:00.000,18–20,Third Year,3 - Moderate,Energetic,Other,Moderate,Less than 30 minutes,Rock,Rock,Energy / Motivation
+2026-09-21 21:05:00.000,18–20,Third Year,5 - Very High,Anxious,Relaxing,High,1–2 hours,Devotional / Spiritual,Devotional / Spiritual,Better Mood
+2026-09-22 11:21:00.000,18–20,Second Year,1 - Very Low,Calm,Working,Low,Less than 30 minutes,Lo-fi,Instrumental,Focus / Concentration
+2026-09-22 12:02:00.000,18–20,Postgraduate,4 - High,Sad,Preparing for sleep,High,More than 4 hours,Instrumental,Lo-fi,Energy / Motivation
+2026-09-22 12:58:00.000,18–20,Second Year,4 - High,Anxious,Working,High,1–2 hours,Ambient,Instrumental,Stress Relief
+2026-09-22 13:48:00.000,18–20,First Year,5 - Very High,Irritated,Studying,Very High,Less than 30 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-22 15:15:00.000,18–20,Second Year,5 - Very High,Irritated,Studying,Very High,Less than 30 minutes,Lo-fi,Bollywood / Indian Film Music,Stress Relief
+2026-09-22 16:25:00.000,18–20,First Year,2 - Low,Tired,Studying,Low,Less than 30 minutes,Bollywood / Indian Film Music,Pop,Focus / Concentration
+2026-09-22 16:43:00.000,18–20,Second Year,2 - Low,Happy,Studying,Moderate,30–60 minutes,Ambient,Instrumental,Better Mood
+2026-09-22 17:19:00.000,18–20,Postgraduate,4 - High,Calm,Exercising,Moderate,1–2 hours,Pop,Pop,Emotional Comfort
+2026-09-22 17:33:00.000,18–20,Second Year,5 - Very High,Happy,Travelling,High,2–4 hours,Electronic,Electronic,Stress Relief
+2026-09-22 17:36:00.000,21–23,Second Year,4 - High,Irritated,Studying,Very High,30–60 minutes,Lo-fi,Lo-fi,Relaxation
+2026-09-22 17:52:00.000,18–20,Third Year,3 - Moderate,Calm,Travelling,Moderate,2–4 hours,Bollywood / Indian Film Music,Hip-Hop / Rap,Emotional Comfort
+2026-09-22 18:36:00.000,21–23,Third Year,3 - Moderate,Neutral,Studying,Moderate,2–4 hours,Instrumental,Instrumental,Focus / Concentration
+2026-09-22 18:38:00.000,21–23,Second Year,1 - Very Low,Happy,Exercising,Very Low,More than 4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Energy / Motivation
+2026-09-22 19:52:00.000,21–23,First Year,3 - Moderate,Happy,Exercising,High,1–2 hours,Ambient,Ambient,Better Mood
+2026-09-22 20:10:00.000,21–23,Third Year,5 - Very High,Sad,Studying,Very High,30–60 minutes,Lo-fi,Bollywood / Indian Film Music,Stress Relief
+2026-09-22 21:33:00.000,24+,First Year,1 - Very Low,Neutral,Studying,Low,30–60 minutes,Bollywood / Indian Film Music,Pop,Relaxation
+2026-09-23 11:43:00.000,18–20,First Year,4 - High,Calm,Studying,High,1–2 hours,Lo-fi,Pop,Stress Relief
+2026-09-23 11:43:00.000,21–23,Second Year,5 - Very High,Sad,Studying,Moderate,More than 4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Energy / Motivation
+2026-09-23 12:10:00.000,18–20,Postgraduate,3 - Moderate,Anxious,Exercising,Moderate,30–60 minutes,Lo-fi,Pop,Sleep
+2026-09-23 12:39:00.000,18–20,Third Year,3 - Moderate,Neutral,Working,Moderate,1–2 hours,Classical,Classical,Stress Relief
+2026-09-23 13:06:00.000,21–23,Third Year,1 - Very Low,Energetic,Travelling,Low,2–4 hours,Pop,Instrumental,Relaxation
+2026-09-23 13:56:00.000,21–23,Third Year,4 - High,Neutral,Relaxing,High,2–4 hours,Devotional / Spiritual,Devotional / Spiritual,Stress Relief
+2026-09-23 13:57:00.000,21–23,Second Year,2 - Low,Calm,Travelling,Low,Less than 30 minutes,Instrumental,Rock,Relaxation
+2026-09-23 14:38:00.000,21–23,Second Year,3 - Moderate,Neutral,Other,High,1–2 hours,Classical,Lo-fi,Sleep
+2026-09-23 16:35:00.000,18–20,First Year,4 - High,Tired,Relaxing,High,1–2 hours,Pop,Lo-fi,Emotional Comfort
+2026-09-23 16:39:00.000,21–23,Postgraduate,4 - High,Calm,Studying,Very High,Less than 30 minutes,Instrumental,Instrumental,No Specific Goal
+2026-09-23 17:46:00.000,18–20,First Year,4 - High,Irritated,Studying,Moderate,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-23 19:21:00.000,18–20,First Year,3 - Moderate,Neutral,Studying,Moderate,30–60 minutes,Pop,Pop,Relaxation
+2026-09-23 20:57:00.000,18–20,Postgraduate,2 - Low,Happy,Studying,Moderate,2–4 hours,Bollywood / Indian Film Music,Rock,Focus / Concentration
+2026-09-24 11:02:00.000,21–23,Second Year,5 - Very High,Neutral,Studying,Very High,30–60 minutes,Bollywood / Indian Film Music,Lo-fi,Focus / Concentration
+2026-09-24 11:41:00.000,18–20,First Year,4 - High,Tired,Relaxing,Moderate,30–60 minutes,Classical,Classical,Stress Relief
+2026-09-24 12:11:00.000,21–23,Third Year,3 - Moderate,Neutral,Relaxing,High,More than 4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Energy / Motivation
+2026-09-24 12:43:00.000,18–20,Postgraduate,5 - Very High,Happy,Exercising,Very High,30–60 minutes,Instrumental,Instrumental,Emotional Comfort
+2026-09-24 12:45:00.000,18–20,Third Year,1 - Very Low,Tired,Working,Moderate,2–4 hours,Devotional / Spiritual,Pop,Relaxation
+2026-09-24 14:16:00.000,21–23,First Year,2 - Low,Tired,Working,Moderate,30–60 minutes,Lo-fi,Pop,Energy / Motivation
+2026-09-24 14:28:00.000,21–23,Third Year,3 - Moderate,Neutral,Preparing for sleep,High,30–60 minutes,Instrumental,Instrumental,Focus / Concentration
+2026-09-24 14:36:00.000,21–23,First Year,1 - Very Low,Neutral,Other,Very Low,1–2 hours,Rock,Lo-fi,Energy / Motivation
+2026-09-24 14:43:00.000,18–20,First Year,1 - Very Low,Happy,Studying,Moderate,30–60 minutes,Hip-Hop / Rap,Classical,Focus / Concentration
+2026-09-24 15:45:00.000,21–23,Second Year,5 - Very High,Sad,Relaxing,Very High,30–60 minutes,Classical,Classical,Relaxation
+2026-09-24 17:43:00.000,18–20,First Year,3 - Moderate,Irritated,Other,Moderate,2–4 hours,Lo-fi,Lo-fi,Stress Relief
+2026-09-24 19:12:00.000,Under 18,Third Year,2 - Low,Tired,Studying,Low,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Better Mood
+2026-09-24 19:14:00.000,Under 18,Postgraduate,5 - Very High,Tired,Studying,Very High,2–4 hours,Classical,Classical,Stress Relief
+2026-09-24 19:26:00.000,21–23,Third Year,2 - Low,Calm,Other,Low,30–60 minutes,Pop,Rock,Stress Relief
+2026-09-24 19:40:00.000,18–20,Third Year,4 - High,Tired,Relaxing,Moderate,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-24 21:30:00.000,18–20,First Year,3 - Moderate,Sad,Relaxing,High,2–4 hours,Bollywood / Indian Film Music,Other,Stress Relief
+2026-09-25 10:30:00.000,18–20,Third Year,3 - Moderate,Energetic,Studying,Moderate,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Focus / Concentration
+2026-09-25 11:07:10.705,18–20,Third Year,3 - Moderate,Calm,Relaxing,Moderate,2–4 hours,Classical,Classical,Focus / Concentration
+2026-09-25 12:31:00.000,18–20,First Year,3 - Moderate,Anxious,Other,High,1–2 hours,Pop,Pop,Stress Relief
+2026-09-25 12:41:00.000,18–20,First Year,4 - High,Tired,Studying,Very High,2–4 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Emotional Comfort
+2026-09-25 13:15:00.000,18–20,First Year,2 - Low,Neutral,Relaxing,Moderate,2–4 hours,Pop,Pop,Stress Relief
+2026-09-25 13:17:00.000,18–20,First Year,3 - Moderate,Calm,Travelling,Moderate,1–2 hours,Lo-fi,Lo-fi,Relaxation
+2026-09-25 14:03:00.000,21–23,Postgraduate,4 - High,Calm,Preparing for sleep,Moderate,More than 4 hours,Ambient,Instrumental,Stress Relief
+2026-09-25 14:04:00.000,18–20,First Year,4 - High,Happy,Studying,Moderate,30–60 minutes,Electronic,Electronic,Stress Relief
+2026-09-25 14:16:00.000,21–23,First Year,4 - High,Tired,Studying,Moderate,30–60 minutes,Instrumental,Pop,Emotional Comfort
+2026-09-25 16:45:00.000,18–20,Second Year,3 - Moderate,Neutral,Studying,Moderate,1–2 hours,Bollywood / Indian Film Music,Classical,Stress Relief
+2026-09-25 16:51:00.000,18–20,Third Year,4 - High,Neutral,Studying,Very Low,More than 4 hours,Hip-Hop / Rap,Ambient,Emotional Comfort
+2026-09-25 17:31:00.000,18–20,Third Year,2 - Low,Energetic,Travelling,Low,More than 4 hours,Bollywood / Indian Film Music,Pop,Stress Relief
+2026-09-25 18:06:00.000,18–20,Postgraduate,2 - Low,Anxious,Relaxing,Moderate,1–2 hours,Bollywood / Indian Film Music,Pop,Focus / Concentration
+2026-09-25 18:24:00.000,21–23,Third Year,5 - Very High,Tired,Studying,Very High,30–60 minutes,Classical,Ambient,Stress Relief
+2026-09-25 18:29:00.000,21–23,Second Year,1 - Very Low,Happy,Studying,Very Low,1–2 hours,Lo-fi,Classical,Better Mood
+2026-09-25 18:34:00.000,21–23,First Year,2 - Low,Neutral,Studying,Moderate,1–2 hours,Classical,Rock,Focus / Concentration
+2026-09-25 19:19:00.000,18–20,First Year,3 - Moderate,Calm,Exercising,Very High,1–2 hours,Bollywood / Indian Film Music,Bollywood / Indian Film Music,No Specific Goal
+2026-09-25 19:30:00.000,21–23,First Year,4 - High,Irritated,Relaxing,High,1–2 hours,Classical,Pop,Better Mood
+2026-09-25 19:34:00.000,18–20,Second Year,2 - Low,Happy,Relaxing,High,1–2 hours,Devotional / Spiritual,Devotional / Spiritual,Better Mood
+2026-09-25 20:24:00.000,21–23,Second Year,2 - Low,Anxious,Preparing for sleep,Low,30–60 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Stress Relief
+2026-09-25 21:35:00.000,18–20,Third Year,1 - Very Low,Happy,Travelling,Low,Less than 30 minutes,Bollywood / Indian Film Music,Bollywood / Indian Film Music,Relaxation
