@@ -1,4 +1,4 @@
-# SONORA V7 — YouTube setup
+# SONORA — YouTube setup
 
 1. Create/choose a Google Cloud project.
 2. Enable **YouTube Data API v3**.
@@ -18,7 +18,7 @@ YOUTUBE_API_KEY = "your-key-here"
 
 to Streamlit secrets instead.
 
-## V7 bug fixes / hardening
+## bug fixes / hardening
 
 - API keys are no longer treated as valid merely because a non-empty string was entered.
 - Invalid keys can be replaced without restarting the app.
@@ -26,4 +26,4 @@ to Streamlit secrets instead.
 - Live YouTube results are cached for 10 minutes per query during the current session to reduce repeated quota usage from accidental repeated clicks.
 - Video and playlist errors are handled independently, so one failed request does not hide successful results from the other.
 - YouTube API quota, invalid-key, restriction, and network errors receive clearer user-facing messages.
-- The existing V6 visual hierarchy and styling are preserved.
+- The existing visual hierarchy and styling are preserved.
